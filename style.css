@@ -15,7 +15,7 @@ html, body {
 }
 
 body{
-    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(images/13\ .jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(./13\ .jpg);
     background-size: cover;
     background-position: center;
     overflow-y: auto;
